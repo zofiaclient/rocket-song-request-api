@@ -1,0 +1,12 @@
+[package]
+name = "rocket-song-request-api"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+# NOTE: This is a pre-release version.
+# Thus, It is suggested NOT to use this in production.
+rocket = "0.5.0-rc.2"
